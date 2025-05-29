@@ -441,4 +441,4 @@ class TraderBot:
 
 if __name__ == "__main__":
     bot = TraderBot()
-    bot.run_mean_reversion_bot(backtest=True)
+    bot.run_mean_reversion_bot(backtest=False)

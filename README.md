@@ -25,3 +25,6 @@ This project is a simple Python-based trading bot that interacts with the [Alpac
 - `source .venv/bin/activate`
 - `pip install -r requirements.txt`
 - `python3 trader_bot.py`
+
+## NOTE:
+To enable backtesting, use `backtest` boolean arg 
