@@ -11,14 +11,6 @@ This project is a simple Python-based trading bot that interacts with the [Alpac
 
 ---
 
-## 📂 Project Structure
-
-├── trader_bot.py # Main script for executing trades
-└── requirements.txt # Python dependencies
-
-
----
-
 ## 🔧 Requirements
 
 - Python 3.7+
