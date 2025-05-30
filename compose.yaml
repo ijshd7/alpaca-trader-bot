@@ -1,0 +1,6 @@
+services:
+  trader_bot:
+    build: .
+    restart: always
+    env_file:
+      - .env
